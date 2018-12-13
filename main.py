@@ -7,6 +7,7 @@ from synset import Verb
 from synset import Adjective
 from synset import Adverb
 import shelve
+hhh
 from synset import make_synsets
 
 label_to_word_object = shelve.open('label_to_word_object')
